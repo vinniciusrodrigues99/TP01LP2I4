@@ -1,4 +1,5 @@
 package Ex1;
+//Vinnicius O. Rodrigues
     class Author {
         private String name;
         private String email;
